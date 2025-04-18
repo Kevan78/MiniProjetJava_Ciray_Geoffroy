@@ -1,3 +1,4 @@
+// https://github.com/Kevan78/MiniProjetJava_Ciray_Geoffroy
 package com.airline.model;
 // TEST BRUT !!!!!
 public class Main {
