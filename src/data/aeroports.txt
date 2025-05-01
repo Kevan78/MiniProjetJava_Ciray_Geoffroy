@@ -1,0 +1,5 @@
+CDG,Paris,Aéroport Charles de Gaulle
+JFK,New York,Aéroport John F. Kennedy
+LHR,Londres,Aéroport de HeathrowCDG,Paris,Charles de Gaulle
+CDG,Paris,Charles de Gaulle
+
